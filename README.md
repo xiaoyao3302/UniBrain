@@ -104,7 +104,7 @@ If you want to visualize the reconstructed stimuli from different subjects, reme
 
 To run with different settings, please modify the settings in the bash file.
 
-Note that all of our experiments are tested on 4 A100 GPUs.
+Note that all of our experiments are tested on 4 40G A100 GPUs.
 
 
 
