@@ -112,7 +112,14 @@ Note that all of our experiments are tested on 4 40G A100 GPUs.
 ## Citation
 
 If you find this project useful, please consider citing our paper.
-
+```
+@article{wang2024unibrain,
+  title={UniBrain: A Unified Model for Cross-Subject Brain Decoding},
+  author={Wang, Zicheng and Zhao, Zhen and Zhou, Luping and Nachev, Parashkev},
+  journal={arXiv preprint arXiv:2412.19487},
+  year={2024}
+}
+```
 
 
 ## Acknowledgement
