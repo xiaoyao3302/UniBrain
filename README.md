@@ -95,7 +95,7 @@ bash ./scripts/inference_img2img_sep.sh
 
 ### III. Checkpoints
 
-All of the **checkpoints**, including the checkpoints for **each ablation** can be found **[here](https://drive.google.com/drive/folders/1AvI84zY8PzBHbDl48TNX_z8QLhBHJ5r8?usp=sharing)**. Please refer to note.md in the cloud folder for more details about choosing your required checkpoints.
+All of the **checkpoints**, including the checkpoints for **each ablation** can be found **[here](https://drive.google.com/drive/folders/1AvI84zY8PzBHbDl48TNX_z8QLhBHJ5r8?usp=sharing)**. Please refer to the note.md in the cloud folder for more details on choosing your required checkpoints.
 
 
 ### IV. Notes
